@@ -1,5 +1,5 @@
 IP: 84.201.162.126;
-name_taski: https:taski-rel.sytes.net;
-name_kittygram: https://relistic.sytes.net;
+name_taski: https:taski-rel.sytes.net/;
+name_kittygram: https://relistic.sytes.net/;
 login: yc-user;
 password: 1597532486;
